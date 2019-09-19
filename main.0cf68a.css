@@ -899,7 +899,7 @@ html {
 .left-col .intrude-less {
     width: 76%;
     text-align: center;
-    margin: 112px auto 0
+    margin: 30px auto 0
 }
 
 .left-col #header {
@@ -997,7 +997,7 @@ html {
 
 .left-col #header .header-author {
     text-align: center;
-    margin: .67em 0;
+    margin: .25em 0;
     font-family: Roboto, serif;
     font-size: 30px;
     transition: .3s
@@ -3381,7 +3381,7 @@ pre .id {
     }
     .header-menu {
         height: auto;
-        margin: 10px 0 20px
+        margin: 0px 0 5px
     }
     .header-menu.tools-nav {
         display: none;
