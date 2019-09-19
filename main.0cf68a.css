@@ -934,7 +934,7 @@ html {
     line-height: 31px;
     text-transform: uppercase;
     float: none;
-    min-height: 150px;
+    min-height: 20px;
     margin-left: -12px;
     text-align: center;
     display: -webkit-box;
@@ -954,7 +954,7 @@ html {
 
 .left-col #header .header-smart-menu {
     font-size: 12px;
-    margin-bottom: 20px
+    margin-bottom: 5px
 }
 
 .left-col #header .header-smart-menu a:after {
@@ -997,7 +997,7 @@ html {
 
 .left-col #header .header-author {
     text-align: center;
-    margin: .20em 0;
+    margin: 5px 0;
     font-family: Roboto, serif;
     font-size: 30px;
     transition: .3s
