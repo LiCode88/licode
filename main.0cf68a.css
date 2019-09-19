@@ -864,7 +864,7 @@ html {
 
 .mid-col {
     position: absolute;
-    right: 0;
+    right: 200px;
     min-height: 100%;
     background: #eaeaea;
     left: 300px;
@@ -881,12 +881,11 @@ html {
 }
 
 .left-col {
-    background: #fff;
     width: 300px;
     position: fixed;
     opacity: 1;
     transition: all .2s ease-in;
-    height: 500px;
+    height: 100%;
     z-index: 999
 }
 

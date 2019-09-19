@@ -1,0 +1,23 @@
+.my_col {
+    height: 100%;
+    margin: 10px;
+    background-color: bisque;
+}
+
+.card {
+    margin: 10px;
+    border-radius: 5px;
+    background-origin: shadow 5px;
+}
+
+.my_blank {
+    background-color: brown;
+}
+
+.right-col {
+    position: absolute;
+    width: 200px;
+    min-height: 100%;
+    background: #eaeaea;
+    transition: all .2s ease-in;
+}
